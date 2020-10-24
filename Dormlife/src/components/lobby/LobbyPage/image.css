@@ -1,0 +1,12 @@
+.image {
+  position: relative;
+  display: inline-block;
+  margin: 2%;
+}
+.image .delete-image-btn {
+  position: absolute;
+  z-index: 2;
+  right: -20px;
+  top : -20px;
+  padding: 0;
+}
